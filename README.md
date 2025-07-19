@@ -23,3 +23,10 @@ UserDefaults (хранение постов и избранного)
 NotificationCenter (обновление UI при изменениях)
 AVFoundation (воспроизведение музыки)
 
+Скриншоты :
+https://github.com/lenafoureyes/IosProject/blob/develop/1/Navigation1/asset/Screenshots/Screenshots.xcassets/Image%201.imageset/Снимок%20экрана%202025-07-19%20в%2022.45.39.png
+https://github.com/lenafoureyes/IosProject/blob/develop/1/Navigation1/asset/Screenshots/Screenshots.xcassets/Image%202.imageset/Снимок%20экрана%202025-07-19%20в%2022.45.49.png
+https://github.com/lenafoureyes/IosProject/blob/develop/1/Navigation1/asset/Screenshots/Screenshots.xcassets/Image%203.imageset/Снимок%20экрана%202025-07-19%20в%2022.46.20.png
+https://github.com/lenafoureyes/IosProject/blob/develop/1/Navigation1/asset/Screenshots/Screenshots.xcassets/Image%204.imageset/Снимок%20экрана%202025-07-19%20в%2022.46.27.png
+https://github.com/lenafoureyes/IosProject/blob/develop/1/Navigation1/asset/Screenshots/Screenshots.xcassets/Image%205.imageset/Снимок%20экрана%202025-07-19%20в%2022.46.30.png
+https://github.com/lenafoureyes/IosProject/blob/develop/1/Navigation1/asset/Screenshots/Screenshots.xcassets/Image%206.imageset/Снимок%20экрана%202025-07-19%20в%2022.46.35.png
