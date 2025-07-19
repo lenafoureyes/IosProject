@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  Navigation1
+
+  Created by Елена Хайрова on 30.05.2025.
+  
+*/
+"tab.profile" = "Профиль";
+"tab.feed" = "Лента";
+"email.phone" = "Почта или телефон";
+"password" = "пароль";
+"button.login" = "Войти";
+"error.title" = "Ошибка";
+"error.ok" = "OK";
+"login.error.userNotFound" = "Пользователь не найден";
+"login.error.unknown" = "Неизвестная ошибка";
+"error.emptyCredentials" = "Пожалуйста, введите логин и пароль";
+"error.invalidLogin" = "Некорректный логин";
+"error.wrongPassword" = "Неверный пароль";
+"error.credentialsMismatch" = "Логин и пароль не совпадают";
+"error.accountLocked" = "Аккаунт временно заблокирован";
+"error.tooManyAttempts" = "Слишком много попыток. Попробуйте позже";
+"debug.comparingLogin" = "Сравнение с логином пользователя:";
+"error.avatarNotFound" = "Аватар не найден";
+"testUser.login" = "тестовыйПользователь";
+"testUser.fullName" = "Тестовый Пользователь";
+"testUser.status" = "Тестирование";
+"description" = "мяу";
+"button.push" = "нажми меня";
+"photos.label" = "Фото";
+"session.expired.title" = "Сессия завершена";
+"session.expired.message" = "Вы были автоматически вышли из системы из-за неактивности";
+"general.ok" = "OK";
+"setup.title.photoGallerey" = "Фото Галерея";
+"post.likes.format" = "Лайки: %d";
+"post.views.format" = "Просмотры: %d";
+"delete.button.title" = "удалить";
+"alert.confirm.title" = "вы уверенны ?";
+"alert.yes" = "Да";
+"alert.no" = "Нет";
+"player.play" = "Плей";
+"player.pause" = "Пауза";
+"player.stop" = "Стоп";
+"player.next" = "Следующий";
+"player.prev" = "Предыдущий";
+"guess.check" = "Проверить";
+"password.placeholder" = "Введите пароль";
+"post.button1" = "Пост 1";
+"post.button2" = "Пост 2";
+"guess.result.correct" = "Верно!";
+"guess.error.empty" = "Введите слово!";
+"guess.result.incorrect" = "Неверно!";
+"post.default.title" = "Пост";
+"ready.document" = "Каталог документов готов";
+"eror.document" = "Ошибка создания каталога документов";
+"face.id" = "войти с Face ID";
+"touch.id" = "войти Touch ID";
+"biometric.eror" = "ошибка биометрии";
+"settings" = "настройки";
+"cancel" = "отмена";
+"new.post" = "Новый пост";
+"enter.description" = "Введите описание";
+"description" = "Описание";
+"add" = "Добавить";
+"faled.save.img" = "Не удалось сохранить изображение";
+"back" = "назад";
+"photogallery" = "фотогалерея";
+"add.post" = "добавить пост";
+"add.descrip" = "Добавить описание";
+"post.descrip" = "Описание поста";
+"biometryNotAvailable" = "Биометрия недоступна";
+"biometryLockout" = "Слишком много попыток. Разблокируйте устройство паролем";
+"biometryNotEnrolled" = "Биометрия не настроена";
+"userCancel" = "Авторизация отменена";
+"systemCancel" = "Авторизация отменена системой";
+"auth.prompt" = "Авторизуйтесь для входа в приложение";
+"feed.title" = "Лента";
+"favorites.title" = "Избранное";
+"music.myMusic.title" = "Моя музыка";

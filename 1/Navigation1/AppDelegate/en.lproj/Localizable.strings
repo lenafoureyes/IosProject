@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  Navigation1
+
+  Created by Елена Хайрова on 30.05.2025.
+  
+*/
+"tab.profile" = "Profile";
+"tab.feed" = "Feed";
+"email.phone" = "Email or phone";
+"password" = "password";
+"button.login" = "Log in";
+"error.title" = "Error";
+"error.ok" = "OK";
+"login.error.userNotFound" = "User not found";
+"login.error.unknown" = "An unknown error occurred";
+"error.emptyCredentials" = "Please enter login and password";
+"error.invalidLogin" = "Invalid login";
+"error.wrongPassword" = "Wrong password";
+"error.credentialsMismatch" = "Login and password don't match";
+"error.accountLocked" = "Account temporarily locked";
+"error.tooManyAttempts" = "Too many attempts. Try again later";
+"debug.comparingLogin" = "Comparing with user login:";
+"error.avatarNotFound" = "Avatar image not found";
+"testUser.login" = "testUser";
+"testUser.fullName" = "Test User";
+"testUser.status" = "Testing";
+"description" = "mew";
+"button.push" = "push me";
+"photos.label" = "Photos";
+"session.expired.title" = "Session expired";
+"session.expired.message" = "You have been logged out due to inactivity";
+"general.ok" = "OK";
+"setup.title.photoGallerey" = "Photo Gallery";
+"post.likes.format" = "Likes: %d";
+"post.views.format" = "Views: %d";
+"delete.button.title" = "Delete";
+"alert.confirm.title" = "Are you sure?";
+"alert.yes" = "Yes";
+"alert.no" = "No";
+"player.play" = "Play";
+"player.pause" = "Pause";
+"player.stop" = "Stop";
+"player.next" = "Next";
+"player.prev" = "Previous";
+"guess.check" = "Check";
+"password.placeholder" = "Enter password";
+"post.button1" = "Post 1";
+"post.button2" = "Post 2";
+"guess.result.correct" = "Correct!";
+"guess.error.empty" = "Please enter a word!";
+"guess.result.incorrect" = "Incorrect!";
+"post.default.title" = "Post";
+"ready.document" = "Documents directory is ready";
+"eror.document" = "Error creating documents directory";
+"face.id" = "login with Face ID";
+"touch.id" = "login with Touch ID";
+"biometric.eror" = "biometric eror";
+"settings" = "settings";
+"cancel" = "cancel";
+"new.post" = "new post";
+"enter.description" = "enter description";
+"description" = "description";
+"add" = "add";
+"faled.save.img" = "faled to save image";
+"back" = "back";
+"photogallery" = "photo gallery";
+"add.post" = "add post";
+"add.descrip" = "Add description";
+"post.descrip" = "Post description";
+"biometryNotAvailable" = "Biometry not available";
+"biometryLockout" = "Too many attempts. Unlock device with password";
+"biometryNotEnrolled" = "Biometry not set up";
+"userCancel" = "Authorization canceled";
+"systemCancel" = "Authorization canceled by system";
+"auth.prompt" = "Sign in to access the app";
+"feed.title" = "Feed";
+"favorites.title" = "Favorites";
+"music.myMusic.title" = "My Music";
